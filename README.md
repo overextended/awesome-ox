@@ -7,6 +7,10 @@ A curated list of resources or projects related to ox_core.
 
 - [ox_banking](https://github.com/overextended/ox_banking) - Integrates with the ox_core accounts system for managing player banking, shared accounts, logs, invoices, and more.
 
+### Invoicing
+
+- [judd_invoice](https://github.com/juddisjudd/judd_invoice) - Developer resource for easy invoice creation between characters.
+
 ### Door Management
 
 - [ox_doorlock](https://github.com/overextended/ox_doorlock) - A flexible solution for in-game door configuration and access control, making it easy to manage locked areas.
