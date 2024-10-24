@@ -22,3 +22,7 @@ A curated list of resources or projects related to ox_core.
 ### Inventory Systems
 
 - [ox_inventory](https://github.com/overextended/ox_inventory) - A robust inventory solution for FiveM, implementing items, weapons, shops, and much more to support a wide range of gameplay scenarios.
+
+### Development Tools
+
+- [judd_invoice](https://github.com/juddisjudd/judd_invoice) - Developer resource for easy invoice creation between characters.
