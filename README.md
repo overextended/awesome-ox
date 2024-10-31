@@ -33,3 +33,7 @@ A curated list of resources or projects related to ox_core.
 - [luxu_garages](https://github.com/luxu-gg/luxu_garages_ox) - A simple garage system built for ox_core. Handles multiple garages and vehicle impounding.
 
 - [fivem-parking](https://github.com/arlofonseca/fivem-parking) - A realistic garage system created with the intention of transitioning towards a more universal structure.
+
+### HUDs
+
+- [Afterlife-Hud](https://github.com/AfterLifeStudio/Afterlife-Hud)
