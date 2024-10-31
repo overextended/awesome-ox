@@ -28,6 +28,8 @@ A curated list of resources or projects related to ox_core.
 
 - [judd_invoice](https://github.com/juddisjudd/judd_invoice) - Developer resource for easy invoice creation between characters.
 
+- [vanish_starterpack](https://github.com/vanishdevs/vanish_starterpack) - A simple starter pack system that allows players to receive items per character, showcasing a sample ox_core bridge.
+
 ### Garage Systems
 
 - [luxu_garages](https://github.com/luxu-gg/luxu_garages_ox) - A simple garage system built for ox_core. Handles multiple garages and vehicle impounding.
