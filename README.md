@@ -37,4 +37,4 @@ A curated list of resources or projects related to ox_core.
 ### HUDs
 
 - [Afterlife-Hud](https://github.com/AfterLifeStudio/Afterlife-Hud)
-- [min-hud](https://github.com/vipexv/minimal-hud) - A Minimal HUD Built using Preact/Tailwind CSS, it's built to be standalone with optional support for ESX,QB,OX and has an easy setup for a custom framework.
+- [minimal-hud](https://github.com/vipexv/minimal-hud) - A Minimal HUD Built using Preact/Tailwind CSS, it's built to be standalone with optional support for ESX, QB, OX and allows for easy setup for a custom framework.
