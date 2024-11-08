@@ -37,6 +37,10 @@ A curated list of resources or projects related to ox_core.
 
 - [fivem-parking](https://github.com/arlofonseca/fivem-parking) - A realistic garage system created with the intention of transitioning towards a more universal structure.
 
+### Impound Systems
+
+- [mps impound](https://github.com/Maximus7474/mps-impound-4-oxcore) - A easily customizable impound system to impound and retrieve vehicles with custom reasons and retrieval costs.
+
 ### HUDs
 
 - [Afterlife-Hud](https://github.com/AfterLifeStudio/Afterlife-Hud)
