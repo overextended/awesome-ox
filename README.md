@@ -38,6 +38,8 @@ A curated list of resources or projects related to ox_core.
 
 - [fivem-parking](https://github.com/arlofonseca/fivem-parking) - A realistic garage system created with the intention of transitioning towards a more universal structure.
 
+- [mps_vehiclepersist](https://github.com/Maximus7474/mps_vehiclepersist) - A simple script that respawns vehicles that where left outside after a server restart
+
 ### Impound Systems
 
 - [mps-impound](https://github.com/Maximus7474/mps-impound-4-oxcore) - A easily customizable impound system to impound and retrieve vehicles with custom reasons and retrieval costs.
