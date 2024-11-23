@@ -46,6 +46,6 @@ A curated list of resources or projects related to ox_core.
 
 - [Afterlife-Hud](https://github.com/AfterLifeStudio/Afterlife-Hud)
 
-### Misc Systems
+### Miscellaneous Systems
 
 - [fivem-attributes](https://github.com/arlofonseca/fivem-attributes) - A simple player attributes system for setting and viewing details of a character.
