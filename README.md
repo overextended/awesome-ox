@@ -27,7 +27,8 @@ A curated list of resources or projects related to ox_core.
 ### Development Tools
 
 - [judd_invoice](https://github.com/juddisjudd/judd_invoice) - Developer resource for easy invoice creation between characters.
-- [ceeb_oxgroups](https://github.com/CeebDev/ceeb_oxgroups) - Developer resource for create, delete and visualize groups for ox_core
+
+- [ceeb_oxgroups](https://github.com/CeebDev/ceeb_oxgroups) - Developer resource for creating, deleting, and visualizing groups for ox_core.
 
 - [vanish_starterpack](https://github.com/vanishdevs/vanish_starterpack) - A simple starter pack system that allows players to receive items per character, showcasing a sample ox_core bridge.
 
@@ -39,8 +40,12 @@ A curated list of resources or projects related to ox_core.
 
 ### Impound Systems
 
-- [mps impound](https://github.com/Maximus7474/mps-impound-4-oxcore) - A easily customizable impound system to impound and retrieve vehicles with custom reasons and retrieval costs.
+- [mps-impound](https://github.com/Maximus7474/mps-impound-4-oxcore) - A easily customizable impound system to impound and retrieve vehicles with custom reasons and retrieval costs.
 
 ### HUDs
 
 - [Afterlife-Hud](https://github.com/AfterLifeStudio/Afterlife-Hud)
+
+### Miscellaneous Systems
+
+- [fivem-attributes](https://github.com/arlofonseca/fivem-attributes) - A simple player attributes system for setting and viewing details of a character.
