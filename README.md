@@ -40,6 +40,8 @@ A curated list of resources or projects related to ox_core.
 
 - [mps_vehiclepersist](https://github.com/Maximus7474/mps_vehiclepersist) - A simple script that respawns vehicles that where left outside after a server restart
 
+- [sensei_garages](https://github.com/MauroNr1/sensei_garages) - A garage script for ox_core. Public garages, group garages and impounds are supported and pre-configured.
+
 ### Impound Systems
 
 - [mps-impound](https://github.com/Maximus7474/mps-impound-4-oxcore) - A easily customizable impound system to impound and retrieve vehicles with custom reasons and retrieval costs.
