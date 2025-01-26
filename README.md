@@ -50,6 +50,8 @@ A curated list of resources or projects related to ox_core.
 
 - [Afterlife-Hud](https://github.com/AfterLifeStudio/Afterlife-Hud)
 
+- [minimal-hud](https://github.com/ThatMadCap/minimal-hud) - A Minimal HUD Built using Preact/Tailwind CSS. Standalone with optional support for many frameworks and allows for easy setup for a custom framework.
+
 ### Miscellaneous Systems
 
 - [fivem-attributes](https://github.com/arlofonseca/fivem-attributes) - A simple player attributes system for setting and viewing details of a character.
