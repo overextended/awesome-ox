@@ -30,7 +30,7 @@ A curated list of resources or projects related to ox_core.
 
 - [ceeb_oxgroups](https://github.com/CeebDev/ceeb_oxgroups) - Developer resource for creating, deleting, and visualizing groups for ox_core.
 
-- [prisma](https://github.com/arlofonseca/prisma) - JavaScript/TypeScript tool containing examples of how to use Prisma ORM for FiveM.
+- [prisma](https://github.com/arlofonseca/prisma) - JavaScript/TypeScript tool containing examples of how to utilize Prisma ORM with ox_core.
 
 - [vanish_starterpack](https://github.com/vanishdevs/vanish_starterpack) - A simple starter pack system that allows players to receive items per character, showcasing a sample ox_core bridge.
 
