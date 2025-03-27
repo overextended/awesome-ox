@@ -21,6 +21,7 @@ A curated list of resources or projects related to ox_core.
 ### Targeting and Interaction Systems
 
 - [ox_target](https://github.com/overextended/ox_target) - A standalone targeting system with additional features for supported frameworks.
+- [sleepless_interact](https://github.com/Sleepless-Development/sleepless_interact) - a dui based 3d interaction system with compat for multiple other interaction/target systems.
 
 ### Inventory Systems
 
