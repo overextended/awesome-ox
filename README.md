@@ -1,6 +1,8 @@
-# ![ox_awesome](https://github.com/user-attachments/assets/e1762d51-b04a-4d40-a6d4-c8686b15012e) Awesome Ox
+# ![ox2_small](https://github.com/user-attachments/assets/4e24e743-58a6-4aec-ad72-19636f77841a) Awesome Ox
 
 A curated list of resources or projects related to ox_core.
+
+[Click here for more related projects.](https://github.com/topics/ox-core)
 
 ## Resources
 
