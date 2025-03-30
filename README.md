@@ -36,6 +36,8 @@ A curated list of resources or projects related to ox_core.
 
 - [vanish_starterpack](https://github.com/vanishdevs/vanish_starterpack) - A simple starter pack system that allows players to receive items per character, showcasing a sample ox_core bridge.
 
+- [QB-TO-OX](https://github.com/jaanmangib/QB-TO-OX) - Helps to make ox_core scripts.
+
 ### Garage Systems
 
 - [luxu_garages](https://github.com/luxu-gg/luxu_garages_ox) - A simple garage system built for ox_core. Handles multiple garages and vehicle impounding.
