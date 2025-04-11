@@ -60,3 +60,7 @@ A curated list of resources or projects related to ox_core.
 ### Miscellaneous Systems
 
 - [fivem-attributes](https://github.com/arlofonseca/fivem-attributes) - A simple player attributes system for setting and viewing details of a character.
+
+### Guides
+
+- [QB-TO-OX](https://github.com/jaanmangib/QB-TO-OX) - Helps to convert qb-core scripts to ox_core.
