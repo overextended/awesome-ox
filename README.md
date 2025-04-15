@@ -64,3 +64,5 @@ A curated list of resources or projects related to ox_core.
 ### Guides
 
 - [QB-TO-OX](https://github.com/jaanmangib/QB-TO-OX) - Helps to convert qb-core scripts to ox_core.
+
+- [ESX-TO-OX](https://github.com/jaanmangib/ESX-TO-OX) - Helps to convert esx scripts to ox_core.
