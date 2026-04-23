@@ -8,24 +8,24 @@ A curated list of resources or projects related to ox_core.
 
 ### Banking
 
-- [ox_banking](https://github.com/overextended/ox_banking) - Integrates with the ox_core accounts system for managing player banking, shared accounts, logs, invoices, and more.
+- [ox_banking](https://github.com/communityox/ox_banking) - Integrates with the ox_core accounts system for managing player banking, shared accounts, logs, invoices, and more.
 
 ### Door Management
 
-- [ox_doorlock](https://github.com/overextended/ox_doorlock) - A flexible solution for in-game door configuration and access control, making it easy to manage locked areas.
+- [ox_doorlock](https://github.com/communityox/ox_doorlock) - A flexible solution for in-game door configuration and access control, making it easy to manage locked areas.
 
 ### Fuel Systems
 
-- [ox_fuel](https://github.com/overextended/ox_fuel) - A simple fuel-sync and refueling system utilising FiveM's native fuel system.
+- [ox_fuel](https://github.com/communityox/ox_fuel) - A simple fuel-sync and refueling system utilising FiveM's native fuel system.
 
 ### Targeting and Interaction Systems
 
-- [ox_target](https://github.com/overextended/ox_target) - A standalone targeting system with additional features for supported frameworks.
+- [ox_target](https://github.com/communityox/ox_target) - A standalone targeting system with additional features for supported frameworks.
 - [sleepless_interact](https://github.com/Sleepless-Development/sleepless_interact) - a dui based 3d interaction system with compat for multiple other interaction/target systems.
 
 ### Inventory Systems
 
-- [ox_inventory](https://github.com/overextended/ox_inventory) - A robust inventory solution for FiveM, implementing items, weapons, shops, and much more to support a wide range of gameplay scenarios.
+- [ox_inventory](https://github.com/communityox/ox_inventory) - A robust inventory solution for FiveM, implementing items, weapons, shops, and much more to support a wide range of gameplay scenarios.
 
 ### Development Tools
 
@@ -33,15 +33,11 @@ A curated list of resources or projects related to ox_core.
 
 - [ceeb_oxgroups](https://github.com/CeebDev/ceeb_oxgroups) - Developer resource for creating, deleting, and visualizing groups for ox_core.
 
-- [prisma](https://github.com/arlofonseca/prisma) - JavaScript/TypeScript tool containing examples of how to utilize Prisma ORM with ox_core.
-
 - [vanish_starterpack](https://github.com/vanishdevs/vanish_starterpack) - A simple starter pack system that allows players to receive items per character, showcasing a sample ox_core bridge.
 
 ### Garage Systems
 
 - [luxu_garages](https://github.com/luxu-gg/luxu_garages_ox) - A simple garage system built for ox_core. Handles multiple garages and vehicle impounding.
-
-- [fivem-parking](https://github.com/arlofonseca/fivem-parking) - A realistic garage system created with the intention of transitioning towards a more universal structure.
 
 - [mps_vehiclepersist](https://github.com/Maximus7474/mps_vehiclepersist) - A simple script that respawns vehicles that where left outside after a server restart
 
@@ -57,10 +53,3 @@ A curated list of resources or projects related to ox_core.
 
 - [minimal-hud](https://github.com/ThatMadCap/minimal-hud) - A Minimal HUD Built using Preact/Tailwind CSS. Standalone with optional support for many frameworks and allows for easy setup for a custom framework.
 
-### Miscellaneous Systems
-
-- [fivem-attributes](https://github.com/arlofonseca/fivem-attributes) - A simple player attributes system for setting and viewing details of a character.
-
-### Guides
-
-- [QB-TO-OX](https://github.com/jaanmangib/QB-TO-OX) - Helps to convert qb-core scripts to ox_core.
